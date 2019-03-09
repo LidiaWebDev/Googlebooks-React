@@ -1,0 +1,3 @@
+var config = {
+  MY_KEY: "AIzaSyB-6DmEP48KlQC0HL7Pg_zCfmJqjjc0C9w"
+};
